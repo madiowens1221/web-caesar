@@ -9,7 +9,6 @@ def alphabet_position(letter):
     else:
         return letter
 
-
 def rotate_character(char, rot):
     char_pos = alphabet_position(char)
 
